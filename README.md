@@ -13,26 +13,29 @@ This GitHub repository hosts a motion detection project implemented in Python us
 **User-Friendly Interface:** Simple setup and usage for both beginners and advanced users.
 
 
+
 ****Getting Started:****
 
 To use this motion detection application:
 
-**Clone the repository:**
+**1. Clone the repository:**
 
 git clone https://github.com/Puneet-Yadav-001/motion_detection_using_opencv.git
 
-**Navigate to the project directory:**
+**2. Navigate to the project directory:**
 
 cd motion-detection
 
-**Run the application:**
+**3. Run the application:**
 
 python main.py
+
 
 ****Dependencies:****
 1. Python 3.6.5
 2. OpenCV
 Ensure you have the required dependencies installed before running the application.
+
 
 ****Contributing:****
 We welcome contributions to enhance this motion detection project. To contribute:
