@@ -1,7 +1,9 @@
 ****Motion Detection with OpenCV****
+
 This GitHub repository hosts a motion detection project implemented in Python using OpenCV. The application uses computer vision techniques to identify and track motion in a given video feed or webcam stream.
 
 ****Key Features:****
+
 **Real-Time Motion Tracking:** Detects and tracks motion in a live video feed.
 
 **Configurable Sensitivity:** Easily adjust sensitivity parameters for optimal results.
@@ -12,15 +14,19 @@ This GitHub repository hosts a motion detection project implemented in Python us
 
 
 ****Getting Started:****
+
 To use this motion detection application:
 
 **Clone the repository:**
+
 git clone https://github.com/Puneet-Yadav-001/motion_detection_using_opencv.git
 
 **Navigate to the project directory:**
+
 cd motion-detection
 
 **Run the application:**
+
 python main.py
 
 ****Dependencies:****
