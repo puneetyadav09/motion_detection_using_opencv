@@ -20,7 +20,7 @@ To use this motion detection application:
 
 **1. Clone the repository:**
 
-git clone https://github.com/Puneet-Yadav-001/motion_detection_using_opencv.git
+git clone https://github.com/puneetyadav09/motion_detection_using_opencv.git
 
 **2. Navigate to the project directory:**
 
